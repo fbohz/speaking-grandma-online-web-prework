@@ -1,7 +1,7 @@
 # Write a speak_to_grandma method.
 
 def speak_to_grandma(speak)
-  speak =  "I LOVE YOU GRANDMA!"
+  
   if speak == "I LOVE YOU GRANDMA!"
     "I LOVE YOU TOO PUMPKIN!"
   elsif speak == speak.capitalize 
